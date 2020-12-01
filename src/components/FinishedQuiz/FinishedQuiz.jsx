@@ -43,9 +43,7 @@ const FinishedQuiz = (props) => {
             Go to the list of tests
           </Button>
         </Link>
-        <Button onClick={props.onRetry} type="error">
-          Again
-        </Button>
+        
       </div>
     </div>
   );
