@@ -142,7 +142,7 @@ import { connect } from 'react-redux'
               type="success"
               onClick={this.loginHandler}
             >
-              Sign Ip
+              Sign In
             </Button>
 
             <Button
